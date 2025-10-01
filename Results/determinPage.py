@@ -1,5 +1,6 @@
 #this program visit each company's review page, based on the starting and ending dates
 #identify the starting and ending page numbers 
+#not complete, not being used
 
 import csv
 from gdtool import setupChrome, findPageOnDate
