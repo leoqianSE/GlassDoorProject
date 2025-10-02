@@ -82,7 +82,7 @@ companies=[]
 with open(".\Results\companylist.csv", "r", encoding="utf-8") as f:
     reader = csv.reader(f)
     rows = list(reader)
-    for row in rows[220:235]:
+    for row in rows[300:]:
         #if row[0]==row[25]:
         #    companies.append("")
         #else:
